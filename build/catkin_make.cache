@@ -1,0 +1,2 @@
+autoturtle
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/Lab1_YuChun_Lin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Lab1_YuChun_Lin_ws/install -G Unix Makefiles
